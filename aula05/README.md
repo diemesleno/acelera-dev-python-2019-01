@@ -1,38 +1,23 @@
-# Primeira aula
+# Module 05
 
-## Grade
 
-1. Sintaxe da Linguagem Java - 
-   - Fundamentos da linguagem
-   - Tipos
-   - métodos
-   - Variáveis
-   - Operadores
-   - Controle de fluxo
-
-2. Orientação a Objetos com Java
-   - Classes & objetos
-   - Encapsulamento
-   - Construtores
-   - interface
-   - Polimorfismo
+1. The HTTP Protocol
+2. REST APIs
+3. Django REST Framework
 
 
 ## Exercícios
 
-* Exemplo prático com múltiplos de 3
-* Exemplo prático com múltiplos de 5
-* Exemplo prático com múltiplos de 5 e 3
-* Controle de estoque
-* Exemplo prático com polimorfismo e as operações aritméticas
-
+* Exemplo prático: API com Django REST Framework
 
 Referências:
 
-* [Processo de build com o Maven](http://blog.caelum.com.br/processo-de-build-com-o-maven/)
-* [Introdução com Java 8](http://www.mkyong.com/tutorials/java-8-tutorials/)
-* [Principais conceitos da Programação Orientada a Objetos
-](https://www.devmedia.com.br/principais-conceitos-da-programacao-orientada-a-objetos/32285)
-* [Java/Características de linguagens orientadas a objetos
-](https://pt.wikibooks.org/wiki/Java/Caracter%C3%ADsticas_de_linguagens_orientadas_a_objetos)
-
+* [https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* [https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/
+HTTP_Basics.html](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
+* [https://www.restapitutorial.com/](https://www.restapitutorial.com/)
+* [https://www.django-rest-framework.org/tutorial/quickstart/](https://www.django-rest-framework.org/tutorial/quickstart/)
+* [https://www.django-rest-framework.org/tutorial/1-serialization/](https://www.django-rest-framework.org/tutorial/1-serialization/)
+* [https://medium.com/@marcosrabaioli/criando-uma-api-rest-utilizando-django-rest-
+framework-parte-1-55ac3e394fa](https://medium.com/@marcosrabaioli/criando-uma-api-rest-utilizando-django-rest-framework-parte-1-55ac3e394fa)
+* [https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
