@@ -1,21 +1,31 @@
-# Primeira aula
+# Module 1
 
-## Grade
+1. Why Python? 
+   - Language Features
+   - The Pythonic Way
+   - The Zen of Python
 
-1. Sintaxe da Linguagem Java - 
-   - Fundamentos da linguagem
-   - Tipos
-   - métodos
-   - Variáveis
-   - Operadores
-   - Controle de fluxo
+2. IDE
 
-2. Orientação a Objetos com Java
-   - Classes & objetos
-   - Encapsulamento
-   - Construtores
-   - interface
-   - Polimorfismo
+3. Python First Program
+
+4. Test
+
+5. Context Variables
+
+6. Data Types
+
+7. Conditionals
+
+8. Repetitions
+
+9. Operations
+
+10. Functions
+
+11. Classes and objects
+
+12. Tools (PIP, iPython, etc..)
 
 
 ## Exercícios
@@ -29,10 +39,11 @@
 
 Referências:
 
-* [Processo de build com o Maven](http://blog.caelum.com.br/processo-de-build-com-o-maven/)
-* [Introdução com Java 8](http://www.mkyong.com/tutorials/java-8-tutorials/)
-* [Principais conceitos da Programação Orientada a Objetos
-](https://www.devmedia.com.br/principais-conceitos-da-programacao-orientada-a-objetos/32285)
-* [Java/Características de linguagens orientadas a objetos
-](https://pt.wikibooks.org/wiki/Java/Caracter%C3%ADsticas_de_linguagens_orientadas_a_objetos)
-
+* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
+   Capítulos de 1 a 9
+   Capítulos 11, 15, 16 e 20
+* [A simple introduction to Test Driven Development with Python](https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe)
+* [Getting Started with VS Code](https://code.visualstudio.com/docs/introvideos/basics)
+* [An Introduction to Python Packages for Absolute Beginners](https://hackernoon.com/pip-install-abra-cadabra-or-python-packages-for-beginners-33a989834975)
+* [Introduction to Python - Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* [Python 3 Tutorial - SoloLearn - App para celular!](https://www.sololearn.com/Course/Python/)
