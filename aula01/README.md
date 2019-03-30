@@ -4,27 +4,16 @@
    - Language Features
    - The Pythonic Way
    - The Zen of Python
-
 2. IDE
-
 3. Python First Program
-
 4. Test
-
 5. Context Variables
-
 6. Data Types
-
 7. Conditionals
-
 8. Repetitions
-
 9. Operations
-
 10. Functions
-
 11. Classes and objects
-
 12. Tools (PIP, iPython, etc..)
 
 
