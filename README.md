@@ -28,10 +28,10 @@ cd acelera-dev-python-2019-01
 
 ## Bons Materiais Extra
 
-* [Python Fluente](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X)
-* [TDD com Python](https://www.amazon.com.br/Tdd-com-Python-Selenium-JavaScript/dp/8575226428/)
-* [REST APIs with Django](https://www.amazon.com/dp/198302998X/)
-* [Clean code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Clean+code&qid=1549801398&s=gateway&sr=8-1)
-* [Clean Architecture](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Clean+Architecture&qid=1549801411&s=gateway&sr=8-1)
-* [O programador pragmático](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre-ebook/dp/B019HM0H90/ref=sr_1_fkmrnull_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=O+programador+pragm%C3%A1tico&qid=1549801424&s=gateway&sr=8-1-fkmrnull)
-* [Use a cabeça padrões de projeto](https://www.amazon.com.br/Cabe%C3%A7a-Padr%C3%B5es-Projetos-Eric-Freeman/dp/8576081741/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Use+a+cabe%C3%A7a+padr%C3%B3es+de+projeto&qid=1549801436&s=gateway&sr=8-1-spell)
+* [Python Fluente](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X){:target="_blank"}
+* [TDD com Python](https://www.amazon.com.br/Tdd-com-Python-Selenium-JavaScript/dp/8575226428/){:target="_blank"}
+* [REST APIs with Django](https://www.amazon.com/dp/198302998X/){:target="_blank"}
+* [Clean code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/){:target="_blank"}
+* [Clean Architecture](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/){:target="_blank"}
+* [O programador pragmático](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre-ebook/dp/B019HM0H90/){:target="_blank"}
+* [Use a cabeça padrões de projeto](https://www.amazon.com.br/Cabe%C3%A7a-Padr%C3%B5es-Projetos-Eric-Freeman/dp/8576081741/){:target="_blank"}
