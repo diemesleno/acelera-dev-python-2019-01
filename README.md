@@ -3,12 +3,12 @@ This project is used as guide to follow along with the workshops from Acelera De
 
 ## Modules
 
-* [Module 01](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula01)
-* [Module 02](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula02)
-* [Module 03](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula03)
-* [Module 04](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula04)
-* [Module 05](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula05)
-* [Module 06](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula06)
+* [Module 01](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/module01)
+* [Module 02](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/module02)
+* [Module 03](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/module03)
+* [Module 04](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/module04)
+* [Module 05](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/module05)
+* [Module 06](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/module06)
 
 
 ## Requirements
