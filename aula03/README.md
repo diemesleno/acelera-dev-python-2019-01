@@ -1,38 +1,35 @@
-# Primeira aula
+# Module 03
 
-## Grade
-
-1. Sintaxe da Linguagem Java - 
-   - Fundamentos da linguagem
-   - Tipos
-   - métodos
-   - Variáveis
-   - Operadores
-   - Controle de fluxo
-
-2. Orientação a Objetos com Java
-   - Classes & objetos
-   - Encapsulamento
-   - Construtores
-   - interface
-   - Polimorfismo
+1. Client Server architecture 
+2. Django
+   - Install
+   - Create a project
+   - Create an application
+   - Architecture
+   - Views
+   - Models
+   - Django Admin
+   - URLs
 
 
 ## Exercícios
 
-* Exemplo prático com múltiplos de 3
-* Exemplo prático com múltiplos de 5
-* Exemplo prático com múltiplos de 5 e 3
-* Controle de estoque
-* Exemplo prático com polimorfismo e as operações aritméticas
+* Exemplo prático: Criação de projeto Django
+* Exemplo prático: Criação de aplicação Django
+* Exemplo prático: Settings Django
+* Exemplo prático: Models, Views, URLs
+* Exemplo prático: Django Admin
 
 
 Referências:
 
-* [Processo de build com o Maven](http://blog.caelum.com.br/processo-de-build-com-o-maven/)
-* [Introdução com Java 8](http://www.mkyong.com/tutorials/java-8-tutorials/)
-* [Principais conceitos da Programação Orientada a Objetos
-](https://www.devmedia.com.br/principais-conceitos-da-programacao-orientada-a-objetos/32285)
-* [Java/Características de linguagens orientadas a objetos
-](https://pt.wikibooks.org/wiki/Java/Caracter%C3%ADsticas_de_linguagens_orientadas_a_objetos)
-
+* [https://djangobook.com/mdj2-django-structure/](https://djangobook.com/mdj2-django-structure/)
+* [https://www.dummies.com/education/internet-basics/dns-what-it-is-and-what-it-does/](https://www.dummies.com/education/internet-basics/dns-what-it-is-and-what-it-does/)
+* [https://www.twoscoopspress.com/products/two-scoops-of-django-1-11](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
+* [https://www.w3.org/Protocols/rfc2616/rfc2616.html](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
+* [https://www.tutorialspoint.com/http/index.htm](https://www.tutorialspoint.com/http/index.htm)
+* [https://docs.djangoproject.com/en/1.11/faq/general/#django-appears-to-be-a-mvc-
+framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-
+you-don-t-use-the-standard-names](https://docs.djangoproject.com/en/1.11/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names)
+* [Desconstruindo a Web](https://www.casadocodigo.com.br/products/livro-desconstruindo-web)
+* [How Django URLs work with Regular Expressions](https://www.youtube.com/watch?v=8rExil_EWtk)
