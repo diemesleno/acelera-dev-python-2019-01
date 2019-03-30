@@ -1,38 +1,31 @@
-# Primeira aula
+# Module 06
 
-## Grade
+## Topic
 
-1. Sintaxe da Linguagem Java - 
-   - Fundamentos da linguagem
-   - Tipos
-   - métodos
-   - Variáveis
-   - Operadores
-   - Controle de fluxo
+1. Version Control Tools 
+   - Git + Github
 
-2. Orientação a Objetos com Java
-   - Classes & objetos
-   - Encapsulamento
-   - Construtores
-   - interface
-   - Polimorfismo
+2. Deploy
+   - Deploy to Heroku
 
 
 ## Exercícios
 
-* Exemplo prático com múltiplos de 3
-* Exemplo prático com múltiplos de 5
-* Exemplo prático com múltiplos de 5 e 3
-* Controle de estoque
-* Exemplo prático com polimorfismo e as operações aritméticas
+* Exemplo prático: Criação projeto Git/Github
+* Exemplo prático: Deploy de aplicação Django no Heroku
 
 
 Referências:
 
-* [Processo de build com o Maven](http://blog.caelum.com.br/processo-de-build-com-o-maven/)
-* [Introdução com Java 8](http://www.mkyong.com/tutorials/java-8-tutorials/)
-* [Principais conceitos da Programação Orientada a Objetos
-](https://www.devmedia.com.br/principais-conceitos-da-programacao-orientada-a-objetos/32285)
-* [Java/Características de linguagens orientadas a objetos
-](https://pt.wikibooks.org/wiki/Java/Caracter%C3%ADsticas_de_linguagens_orientadas_a_objetos)
-
+* [https://br.atlassian.com/git/tutorials/what-is-version-control](https://br.atlassian.com/git/tutorials/what-is-version-control)
+* [http://aprenda.vidageek.net/aprenda/git](http://aprenda.vidageek.net/aprenda/git)
+* [https://rogerdudler.github.io/git-guide/index.pt_BR.html](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [https://medium.com/trainingcenter/plano-para-estudar-git-e-github-enquanto-
+aprende-programa%C3%A7%C3%A3o-f5d5f986f459](https://medium.com/trainingcenter/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459)
+* [https://tableless.com.br/tipos-de-deploy/](https://tableless.com.br/tipos-de-deploy/)
+* [https://tutorial.djangogirls.org/pt/deploy/](https://tutorial.djangogirls.org/pt/deploy/)
+* [https://devcenter.heroku.com/articles/deploying-python](https://devcenter.heroku.com/articles/deploying-python)
+* [https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-
+applications-on-heroku.html](https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html)
+* [https://medium.com/@qazi/how-to-deploy-a-django-app-to-heroku-in-2018-the-
+easy-way-48a528d97f9c](https://medium.com/@qazi/how-to-deploy-a-django-app-to-heroku-in-2018-the-easy-way-48a528d97f9c)

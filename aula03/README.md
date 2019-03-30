@@ -1,5 +1,7 @@
 # Module 03
 
+## Topics
+
 1. Client Server architecture 
 2. Django
    - Install

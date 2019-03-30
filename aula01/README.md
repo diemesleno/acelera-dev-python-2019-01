@@ -1,5 +1,7 @@
 # Module 1
 
+## Topics
+
 1. Why Python? 
    - Language Features
    - The Pythonic Way

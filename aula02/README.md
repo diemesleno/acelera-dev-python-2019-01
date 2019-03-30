@@ -1,5 +1,7 @@
 # Module 2
 
+## Topics
+
 1. Creating modules and projects management 
 2. Exceptions
 3. Decorators

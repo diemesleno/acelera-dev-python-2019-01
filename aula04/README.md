@@ -1,5 +1,7 @@
 # Module 04
 
+## Topics
+
 1. Django 
    - Templates
    - HTML and CSS (Basic)
