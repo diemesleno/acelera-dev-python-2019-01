@@ -1,38 +1,23 @@
-# Primeira aula
+# Module 04
 
-## Grade
-
-1. Sintaxe da Linguagem Java - 
-   - Fundamentos da linguagem
-   - Tipos
-   - métodos
-   - Variáveis
-   - Operadores
-   - Controle de fluxo
-
-2. Orientação a Objetos com Java
-   - Classes & objetos
-   - Encapsulamento
-   - Construtores
-   - interface
-   - Polimorfismo
+1. Django 
+   - Templates
+   - HTML and CSS (Basic)
+   - Forms
+   - Autentication and Authorization
 
 
 ## Exercícios
 
-* Exemplo prático com múltiplos de 3
-* Exemplo prático com múltiplos de 5
-* Exemplo prático com múltiplos de 5 e 3
-* Controle de estoque
-* Exemplo prático com polimorfismo e as operações aritméticas
+* Exemplo prático: Arquivos Estáticos
+* Exemplo prático: Tratando Requisição de Formulários
 
 
 Referências:
 
-* [Processo de build com o Maven](http://blog.caelum.com.br/processo-de-build-com-o-maven/)
-* [Introdução com Java 8](http://www.mkyong.com/tutorials/java-8-tutorials/)
-* [Principais conceitos da Programação Orientada a Objetos
-](https://www.devmedia.com.br/principais-conceitos-da-programacao-orientada-a-objetos/32285)
-* [Java/Características de linguagens orientadas a objetos
-](https://pt.wikibooks.org/wiki/Java/Caracter%C3%ADsticas_de_linguagens_orientadas_a_objetos)
-
+* [https://www.tutorialspoint.com/django/django_template_system.htm](https://www.tutorialspoint.com/django/django_template_system.htm)
+* [https://docs.djangoproject.com/en/2.1/topics/forms/](https://docs.djangoproject.com/en/2.1/topics/forms/)
+* [https://docs.djangoproject.com/en/2.1/topics/templates/](https://docs.djangoproject.com/en/2.1/topics/templates/)
+* [https://www.twoscoopspress.com/products/two-scoops-of-django-1-11](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
+* [https://docs.djangoproject.com/en/2.1/topics/class-based-views/generic-display/](https://docs.djangoproject.com/en/2.1/topics/class-based-views/generic-display/)
+* [https://docs.djangoproject.com/en/2.1/topics/class-based-views/](https://docs.djangoproject.com/en/2.1/topics/class-based-views/)
