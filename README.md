@@ -28,7 +28,7 @@ cd acelera-dev-python-2019-01
 
 ## Bons Materiais Extra
 
-* [Python Fluente](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X){:target="_blank"}
+* [Python Fluente](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X" target="_blank)
 * [TDD com Python](https://www.amazon.com.br/Tdd-com-Python-Selenium-JavaScript/dp/8575226428/){:target="_blank"}
 * [REST APIs with Django](https://www.amazon.com/dp/198302998X/){:target="_blank"}
 * [Clean code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/){:target="_blank"}
