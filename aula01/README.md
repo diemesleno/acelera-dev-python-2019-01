@@ -40,8 +40,8 @@
 Referências:
 
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
-   Capítulos de 1 a 9
-   Capítulos 11, 15, 16 e 20
+   * Capítulos de 1 a 9
+   * Capítulos 11, 15, 16 e 20
 * [A simple introduction to Test Driven Development with Python](https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe)
 * [Getting Started with VS Code](https://code.visualstudio.com/docs/introvideos/basics)
 * [An Introduction to Python Packages for Absolute Beginners](https://hackernoon.com/pip-install-abra-cadabra-or-python-packages-for-beginners-33a989834975)
