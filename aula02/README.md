@@ -1,38 +1,40 @@
-# Primeira aula
+# Module 2
 
-## Grade
-
-1. Sintaxe da Linguagem Java - 
-   - Fundamentos da linguagem
-   - Tipos
-   - métodos
-   - Variáveis
-   - Operadores
-   - Controle de fluxo
-
-2. Orientação a Objetos com Java
-   - Classes & objetos
-   - Encapsulamento
-   - Construtores
-   - interface
-   - Polimorfismo
+1. Creating modules and projects management 
+2. Exceptions
+3. Decorators
+4. List and dict comprehensions
+5. Lambda functions
+6. Map, reduce, filter
+7. Generators
+8. Context Managers
+9. Some libraries/frameworks (ex. SQLAlchemy, requests, numpy)
 
 
 ## Exercícios
 
-* Exemplo prático com múltiplos de 3
-* Exemplo prático com múltiplos de 5
-* Exemplo prático com múltiplos de 5 e 3
-* Controle de estoque
-* Exemplo prático com polimorfismo e as operações aritméticas
+* Exemplo prático - Consumo de Memória Generators vs. Listas
+* Exemplo prático - Context Managers
+* Exemplo prático - Performance Python Puro vs. Numpy
 
 
 Referências:
 
-* [Processo de build com o Maven](http://blog.caelum.com.br/processo-de-build-com-o-maven/)
-* [Introdução com Java 8](http://www.mkyong.com/tutorials/java-8-tutorials/)
-* [Principais conceitos da Programação Orientada a Objetos
-](https://www.devmedia.com.br/principais-conceitos-da-programacao-orientada-a-objetos/32285)
-* [Java/Características de linguagens orientadas a objetos
-](https://pt.wikibooks.org/wiki/Java/Caracter%C3%ADsticas_de_linguagens_orientadas_a_objetos)
-
+* [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+* [Paradigmas de Programação - Imperativo, Orientado a Objetos e Funcional](https://pt.slideshare.net/gustavolgcr/paradigmas-de-programao-imperativo-orientado-a-objetos-e-funcional)
+* [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
+* [https://docs.python.org/3/tutorial/modules.html](https://docs.python.org/3/tutorial/modules.html)
+* [https://www.tutorialspoint.com/python3/python_modules.htm](https://www.tutorialspoint.com/python3/python_modules.htm)
+* [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
+* [Começando com Programação Funcional](https://medium.com/trainingcenter/come%C3%A7ando-com-programa%C3%A7%C3%A3o-funcional-de389de2b8fe)
+* [Functional Programming HOWTO](https://docs.python.org/3/howto/functional.html)
+* [Python Dictionary Comprehension Tutorial](https://www.datacamp.com/community/tutorials/python-dictionary-comprehension)
+* [Python Anonymous/Lambda Function](https://www.programiz.com/python-programming/anonymous-function)
+* [Lambda, filter, reduce and map](https://www.python-kurs.eu/python3_lambda.php)
+* [Python 3 Generators](https://www.python-course.eu/python3_generators.php)
+* [Python Wiki - Generators](https://wiki.python.org/moin/Generators)
+* [Python3 Decorators](https://www.python-course.eu/python3_decorators.php)
+* [Python with Context Managers](https://jeffknupp.com/blog/2016/03/07/python-with-context-managers/)
+* [Python Errors and Exceptions - Official Doc](https://docs.python.org/3/tutorial/errors.html)
+* [https://docs.python.org/3/howto/functional.html](https://docs.python.org/3/howto/functional.html)
