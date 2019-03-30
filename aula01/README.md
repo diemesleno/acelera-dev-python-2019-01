@@ -19,16 +19,16 @@
 12. Tools (PIP, iPython, etc..)
 
 
-## Exercícios
+## Exercises
 
-* Exemplo prático com múltiplos de 3
-* Exemplo prático com múltiplos de 5
-* Exemplo prático com múltiplos de 5 e 3
-* Controle de estoque
-* Exemplo prático com polimorfismo e as operações aritméticas
+* Practical example - multiples of 3
+* Practical example - multiples 5
+* Practical example - multiples of 5 and 3
+* Practical example - functions
+* Practical example - Python Objects
 
 
-Referências:
+References:
 
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
    * Capítulos de 1 a 9

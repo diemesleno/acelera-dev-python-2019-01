@@ -1,32 +1,34 @@
 # acelera-dev-python-2019-01
-Esse projeto é destinado ao exemplo de código que serão realizados nas aulas do Acelera Dev Python 2019.
+This project is used as guide to follow along with the workshops from Acelera Dev Python 2019.
 
-## Aulas
+## Modules
 
-* [Aula 1](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula01)
-* [Aula 2](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula02)
-* [Aula 3](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula03)
-* [Aula 4](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula04)
-* [Aula 5](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula05)
-* [Aula 6](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula06)
+* [Module 01](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula01)
+* [Module 02](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula02)
+* [Module 03](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula03)
+* [Module 04](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula04)
+* [Module 05](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula05)
+* [Module 06](https://github.com/diemesleno/acelera-dev-python-2019-01/tree/master/aula06)
 
 
-## Requisitos
+## Requirements
 
 * Python 3.7+
 * VSCode
 * Git
 
 
-## Utilização
+## How to use it?
 
 
 ```bash
 git clone git@github.com:diemesleno/acelera-dev-python-2019-01.git
 cd acelera-dev-python-2019-01
+
+# have fun!
 ```
 
-## Bons Materiais Extra
+## Extra Materials
 
 * [Python Fluente](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X)
 * [TDD com Python](https://www.amazon.com.br/Tdd-com-Python-Selenium-JavaScript/dp/8575226428/)

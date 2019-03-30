@@ -13,14 +13,14 @@
 9. Some libraries/frameworks (ex. SQLAlchemy, requests, numpy)
 
 
-## Exercícios
+## Exercises
 
-* Exemplo prático - Consumo de Memória Generators vs. Listas
-* Exemplo prático - Context Managers
-* Exemplo prático - Performance Python Puro vs. Numpy
+* Practical example - Memory Performance: Generators vs. Lists
+* Practical example - Context Managers
+* Practical example - Performance Python Pure vs. Numpy
 
 
-Referências:
+References:
 
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 * [Paradigmas de Programação - Imperativo, Orientado a Objetos e Funcional](https://pt.slideshare.net/gustavolgcr/paradigmas-de-programao-imperativo-orientado-a-objetos-e-funcional)

@@ -9,13 +9,13 @@
    - Autentication and Authorization
 
 
-## Exercícios
+## Exercises
 
-* Exemplo prático: Arquivos Estáticos
-* Exemplo prático: Tratando Requisição de Formulários
+* Practical example - Working with static files
+* Practical example - Handling Form Requitions
 
 
-Referências:
+References:
 
 * [https://www.tutorialspoint.com/django/django_template_system.htm](https://www.tutorialspoint.com/django/django_template_system.htm)
 * [https://docs.djangoproject.com/en/2.1/topics/forms/](https://docs.djangoproject.com/en/2.1/topics/forms/)

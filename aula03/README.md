@@ -14,16 +14,16 @@
    - URLs
 
 
-## Exercícios
+## Exercises
 
-* Exemplo prático: Criação de projeto Django
-* Exemplo prático: Criação de aplicação Django
-* Exemplo prático: Settings Django
-* Exemplo prático: Models, Views, URLs
-* Exemplo prático: Django Admin
+* Practical example - Django Project Creation
+* Practical example - Django Application Creation
+* Practical example - Settings Django
+* Practical example - Models, Views, URLs
+* Practical example - Django Admin
 
 
-Referências:
+References:
 
 * [https://djangobook.com/mdj2-django-structure/](https://djangobook.com/mdj2-django-structure/)
 * [https://www.dummies.com/education/internet-basics/dns-what-it-is-and-what-it-does/](https://www.dummies.com/education/internet-basics/dns-what-it-is-and-what-it-does/)

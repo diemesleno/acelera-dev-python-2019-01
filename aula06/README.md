@@ -1,6 +1,6 @@
 # Module 06
 
-## Topic
+## Topics
 
 1. Version Control Tools 
    - Git + Github
@@ -9,13 +9,13 @@
    - Deploy to Heroku
 
 
-## Exercícios
+## Exercises
 
-* Exemplo prático: Criação projeto Git/Github
-* Exemplo prático: Deploy de aplicação Django no Heroku
+* Practical example - Project Creation on Git/Github
+* Practical example - Django Project Deploy to Heroku
 
 
-Referências:
+References:
 
 * [https://br.atlassian.com/git/tutorials/what-is-version-control](https://br.atlassian.com/git/tutorials/what-is-version-control)
 * [http://aprenda.vidageek.net/aprenda/git](http://aprenda.vidageek.net/aprenda/git)

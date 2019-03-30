@@ -7,11 +7,11 @@
 3. Django REST Framework
 
 
-## Exercícios
+## Exercises
 
-* Exemplo prático: API com Django REST Framework
+* Practical example - Simple API with Django REST Framework
 
-Referências:
+References:
 
 * [https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 * [https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/
