@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.pyc
+*.py[cod]
+
+# Temporary files
+*.*~
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+
+*/challenge*
